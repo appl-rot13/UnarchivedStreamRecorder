@@ -1,6 +1,6 @@
 [English](README.md) | [日本語](README.ja.md)
 
-***本リポジトリは [UnarchivedStreamDownloader](../../../UnarchivedStreamDownloader) に移動します。***
+***本リポジトリは [UnarchivedStreamDownloader](../../../UnarchivedStreamDownloader) に移動しました。***
 
 # Unarchived Stream Recorder
 

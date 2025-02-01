@@ -1,6 +1,6 @@
 [English](README.md) | [日本語](README.ja.md)
 
-***This repository will be moved to [UnarchivedStreamDownloader](../../../UnarchivedStreamDownloader).***
+***This repository has moved to [UnarchivedStreamDownloader](../../../UnarchivedStreamDownloader).***
 
 # Unarchived Stream Recorder
 
